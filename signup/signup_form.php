@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-tesg
-    
+<?php echo "hello "; ?>
 </body>
 </html>
